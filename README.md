@@ -4,7 +4,7 @@
 
 TurfStep is an Android app in **open beta**. Walk around in real life to uncover the map, close a loop on foot to claim the area inside it, and watch your explored territory grow.
 
-**[⬇ Download the APK](../../releases/download/v1.4.0-beta/TurfStep-1.4.0-beta-arm64.apk)** · Android 7.0+ · no sign-up
+**[⬇ Download the APK](../../releases/download/v1.4.1-beta/TurfStep-1.4.1-beta-arm64.apk)** · Android 7.0+ · no sign-up
 
 <p>
   <img src="screenshots/turfstep-1-cover.png" width="24%" alt="TurfStep open beta">
@@ -32,7 +32,7 @@ This build is **single-player and account-free**:
 
 ## Install
 
-1. Open the [release page](../../releases/tag/v1.4.0-beta) on your phone and download **`TurfStep-1.4.0-beta-arm64.apk`**. (Use the `arm32` file only for older 32-bit devices.)
+1. Open the [release page](../../releases/tag/v1.4.1-beta) on your phone and download **`TurfStep-1.4.1-beta-arm64.apk`**. (Use the `arm32` file only for older 32-bit devices.)
 2. Open the downloaded file. Android will ask you to allow installing apps from this source — allow it for your browser or file manager.
 3. Launch TurfStep and grant the **location** permission ("While using the app") and the **notification** permission.
 

@@ -1,6 +1,14 @@
-## TurfStep 1.4.0 — open beta
+## TurfStep 1.4.1 — open beta
 
 First public build. Single-player, no account needed, all data stays on your device.
+
+### New in 1.4.1
+
+- The position marker now keeps up with you and glides between GPS fixes; an arrow on its rim shows your direction
+- Walking out and back is recorded properly
+- The trail behind you fades out over 30 minutes
+- Captured zones are drawn with a smooth outline; the message you left is shown first when you tap a zone
+- Redesigned capture panel, centred achievement card, corrected app icon
 
 ### What's in it
 
@@ -13,8 +21,8 @@ First public build. Single-player, no account needed, all data stays on your dev
 
 | File | For |
 |---|---|
-| `TurfStep-1.4.0-beta-arm64.apk` | Most phones from the last several years |
-| `TurfStep-1.4.0-beta-arm32.apk` | Older 32-bit devices |
+| `TurfStep-1.4.1-beta-arm64.apk` | Most phones from the last several years |
+| `TurfStep-1.4.1-beta-arm32.apk` | Older 32-bit devices |
 
 Requires Android 7.0 or newer. Installation steps are in the [README](../../#install).
 
@@ -28,8 +36,8 @@ Requires Android 7.0 or newer. Installation steps are in the [README](../../#ins
 ### Checksums (SHA-256)
 
 ```
-3d269d404f9aecd677722874a9a7a871838112411035b4c6bc56017a5ccfdf36  TurfStep-1.4.0-beta-arm64.apk
-618538ed4c72d5fe61cca65818fd16ccdf569d12fcb0f4ba0b503ed364120c70  TurfStep-1.4.0-beta-arm32.apk
+07468fa5612f2d7097bc34431a1f597d9c1f883be9fee28f90f6ebd069dfee17  TurfStep-1.4.1-beta-arm64.apk
+e8b83c167e4d3f89264bb664f7665da2113777b9c7661b7db1c3b42c553efe20  TurfStep-1.4.1-beta-arm32.apk
 ```
 
 Signing certificate SHA-256: `9a78868c783558af9b747f8b92fa5f457734ccd486f8e250f44284f89104f4c1`
